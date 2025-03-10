@@ -4,16 +4,12 @@ This tool helps in early detection by analyzing these metrics to classify anemia
 <br>
 
 <h1><bold>Features:</bold></h1>
-<br>
-
 <h4><p>- Machine learning-based prediction model.<br>
 - Analyzes MCHC, MCH, MCV, hemoglobin and gender to determine anemia risk.<br>
 - User-friendly interface to input blood test data and recieve predictions.</p></h4>
 <br>
 
 <h1><bold>Technologies Used:</bold></h1>
-<br>
-
 <h4><p>- scikit-learn (for the machine learning model)<br>
 - Flask (for backend)<br>
 - Html, CSS (for frontend)<br>
